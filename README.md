@@ -1,0 +1,2 @@
+# Empty List Error in Dart using the reduce() method
+This repository demonstrates a common error encountered when using the `reduce()` method in Dart with an empty list. The `reduce()` method requires at least one element to perform the reduction; otherwise, it throws an error.  This example shows the error and provides a solution using proper error handling.
